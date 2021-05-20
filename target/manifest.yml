@@ -1,0 +1,6 @@
+applications:
+   - name: Hospital-Appointy-Android
+     random-route: true
+     path: target/Hospital-Appointy-Android.war
+     memory: 512M
+     instances: 1
